@@ -1,8 +1,6 @@
 ## 👋 Huang Yan Wei
 
 🎓 **Education**
-* **National Taipei University of Technology (NTUT)**
-    * FinTech Specialist Program
 * **Fu Jen Catholic University**
     * B.S. in Statistics and Information Science
     * *Core Competencies:* Statistical Analysis, Data Processing, Logical Reasoning
