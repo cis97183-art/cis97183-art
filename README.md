@@ -1,7 +1,5 @@
 ## 👋 Huang Yan Wei
 
-Hi, I'm Huang Yan Wei.
-
 🎓 **Education**
 * **National Taipei University of Technology (NTUT)**
     * FinTech Specialist Program
