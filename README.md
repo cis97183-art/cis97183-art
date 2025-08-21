@@ -1,4 +1,4 @@
-## 👋 About Me
+## 👋 Huang Yan Wei
 
 Hi, I'm Huang Yan Wei.
 
