@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**cis97183-art/cis97183-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Huang Yan Wei.
 
-Here are some ideas to get you started:
+🎓 **Education**
+* **National Taipei University of Technology (NTUT)**
+    * FinTech Specialist Program
+* **Fu Jen Catholic University**
+    * B.S. in Statistics and Information Science
+    * *Core Competencies:* Statistical Analysis, Data Processing, Logical Reasoning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Professional Experience**
+* **Cram School Instructor**
+    * *Core Competencies:* Instructional Skills, Team Communication
+
+💻 **Technical Exploration**
+* **Current Project:** Line Bot Development (In Progress)
+* **Currently Exploring:** API Integration, Backend Logic, Python, R
+
+I am dedicated to leveraging my interdisciplinary background to bring unique value to a technical team.
